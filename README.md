@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I go by Krazy-8</h1>
+<h1 align="center">Hi 👋, I am Lidor Cohen</h1>
 <h3 align="center">A Full-Stack developer from Israel</h3>
 
 - 🔭 I’m currently working on **finishing "The Odin Project"**
