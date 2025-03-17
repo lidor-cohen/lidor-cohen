@@ -7,3 +7,6 @@
 ## ✍🏻 About Me
 I am a also a graphic designer, worked with many startups and designed social media content.
 I also have pretty good experience with Photoshop, InDesign and Canva.
+
+### My Precious Codewars
+![codewars](https://www.codewars.com/users/lidor-cohen/badges/large)
